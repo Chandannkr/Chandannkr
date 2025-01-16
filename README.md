@@ -14,7 +14,7 @@ Aspiring Java Full Stack Developer | Passionate about building scalable web appl
 - 📫 How to reach me: [chandan.sranjan@gmail.com](mailto:chandan.sranjan@gmail.com)
 
 ## 📞 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/chandan-kumar-a65457227/))
+- [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/chandan-kumar-a65457227/))
 - [GitHub](https://github.com/Chandankr)
 
 <!--
