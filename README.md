@@ -7,6 +7,11 @@ Aspiring Java Full Stack Developer | Passionate about building scalable web appl
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VS Code, Eclipse, Postman
 
+## 🌟 Projects
+- **[Online Study Portal](https://github.com/Chandannkr/Online-Study-Portal)**  
+  A platform for managing academic resources, tracking progress, and providing personalized dashboards.  
+  **Technologies:** HTML, CSS, JavaScript (Frontend), Java, Salesforce (Conceptual)  
+
 ## 👨‍💻 About Me
 - 🚀 I am an aspiring Java Full Stack Developer with a passion for building modern web applications.
 - 🌱 I’m also interested in **Cloud Computing** and **Machine Learning**.
