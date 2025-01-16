@@ -14,8 +14,8 @@ Aspiring Java Full Stack Developer | Passionate about building scalable web appl
 - 📫 How to reach me: [chandan.sranjan@gmail.com](mailto:chandan.sranjan@gmail.com)
 
 ## 📞 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/chandan-kumar-a65457227/)](https://www.linkedin.com/in/chandan-kumar-a65457227/))
-- [GitHub](https://github.com/Chandankr)
+- [LinkedIn](https://www.linkedin.com/in/chandan-kumar-a65457227/)
+- [GitHub]((https://github.com/Chandannkr)) 
 
 <!--
 **Chandannkr/Chandannkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
