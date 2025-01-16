@@ -15,7 +15,7 @@ Aspiring Java Full Stack Developer | Passionate about building scalable web appl
 
 ## 📞 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chandan-kumar-a65457227/)
-- [GitHub]((https://github.com/Chandannkr)) 
+- [GitHub](https://github.com/Chandannkr) 
 
 <!--
 **Chandannkr/Chandannkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
