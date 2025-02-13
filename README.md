@@ -1,16 +1,10 @@
-# Hi, I'm Chandan Kumar 👋  
-Aspiring Java Full Stack Developer | Passionate about building scalable web applications 🌍
+# 👋 Hi, I'm Chandan Kumar!
 
 ## 🚀 About Me
 - 💻 Full Stack Developer (Java + React.js)
 - 🌱 Passionate about web development & problem-solving
 - 🔍 Exploring new technologies & improving my skills
 - 📫 Reach me at: **chandan.sranjan@gmail.com**
-
-## 🌟 Projects
-- **[Online Study Portal](https://github.com/Chandannkr/Online-Study-Portal)**  
-  A platform for managing academic resources, tracking progress, and providing personalized dashboards.  
-  **Technologies:** HTML, CSS, JavaScript (Frontend), Java, Salesforce (Conceptual)  
 
 ## 🛠 Tech Stack
 ### Frontend
@@ -29,6 +23,21 @@ Aspiring Java Full Stack Developer | Passionate about building scalable web appl
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🌟 Projects
+- **[Online Study Portal](https://github.com/Chandannkr/Online-Study-Portal)**  
+  A platform for managing academic resources, tracking progress, and providing personalized dashboards.  
+  **Technologies:** HTML, CSS, JavaScript (Frontend), Java, Salesforce (Conceptual)  
+
+## 🔥 What I'm Up To
+- 🔭 I’m currently working on a full-stack web application using Java and React.js
+- 🌱 I’m currently learning advanced React.js and backend optimization techniques
+- 👯 I’m looking to collaborate on open-source projects and innovative web applications
+- 🤔 I’m looking for help with improving system design, scalable web applications, and best practices in Java and React.js
+- 💬 Ask me about Java, React.js, and full-stack development
+- 📫 How to reach me: **chandan.sranjan@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving coding challenges and exploring new tech trends!
+
 ## 📈 GitHub Stats
 ![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanKumar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumar&layout=compact&theme=radical)
@@ -36,16 +45,3 @@ Aspiring Java Full Stack Developer | Passionate about building scalable web appl
 ## 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ChandanKumar)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
